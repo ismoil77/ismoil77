@@ -2,6 +2,13 @@
 
 Full-stack software engineer in Dushanbe, Tajikistan. I build web apps end to end: Laravel and PostgreSQL on the back end, Vue, Nuxt, React and Next.js on the front end. In my own time I write desktop software in Rust and small tools for Linux.
 
+## Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Web Developer | Jurat inc, Dushanbe | March 2026 – present |
+| Frontend Web Developer | Avera, Dushanbe | July 2025 – present |
+
 ## Amberflip
 
 [Amberflip](https://amberflip.com) is my offline file converter and editor for Windows, macOS and Linux. It converts, compresses and edits pictures, video, sound, PDFs and documents on your own computer, and nothing is uploaded.
