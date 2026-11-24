@@ -1,6 +1,6 @@
 # Ismoil Vakhidov
 
-Frontend developer in Dushanbe, Tajikistan. At work I build web apps with Vue, Nuxt, React and Next.js. In my own time I write desktop software in Rust and small tools for Linux.
+Full-stack software engineer in Dushanbe, Tajikistan. I build web apps end to end: Laravel and PostgreSQL on the back end, Vue, Nuxt, React and Next.js on the front end. In my own time I write desktop software in Rust and small tools for Linux.
 
 ## Amberflip
 
@@ -24,7 +24,13 @@ Frontend developer in Dushanbe, Tajikistan. At work I build web apps with Vue, N
 
 ## Tools
 
-Vue · Nuxt · React · Next.js · TypeScript · Rust · Astro · Cloudflare Workers · QML · Python
+| Area | Tools |
+|---|---|
+| Back end | PHP · Laravel · Node.js · PostgreSQL · REST APIs |
+| Front end | TypeScript · Vue · Nuxt · Pinia · React · Next.js · Redux Toolkit · Tailwind CSS · Vite · Astro |
+| Desktop and system | Rust · QML · Python · Bash |
+| Testing | Pest · Vitest · Playwright |
+| Infrastructure | Docker · Nginx · Cloudflare Workers · GitHub Actions |
 
 ## Contact
 
