@@ -4,10 +4,10 @@ Full-stack software engineer in Dushanbe, Tajikistan. I build web apps end to en
 
 ## Experience
 
-| Role | Company | Period |
-|---|---|---|
-| Software Engineer | Jurat inc, Dushanbe | March 2026 – present |
-| Software Engineer | Avera, Dushanbe | July 2025 – present |
+| Role | Company | Period | Work |
+|---|---|---|---|
+| Software Engineer | Jurat inc, Dushanbe | March 2026 – present | Web platforms with interactive maps and large modules end to end, and the company website [jurat.org](https://jurat.org) |
+| Software Engineer | Avera, Dushanbe | July 2025 – present | A large CRM system for business automation |
 
 ## Amberflip
 
