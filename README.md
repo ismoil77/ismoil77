@@ -29,6 +29,17 @@ Full-stack software engineer in Dushanbe, Tajikistan. I build web apps end to en
 | [omarchy-memory](https://github.com/ismoil77/omarchy-memory) | RAM, swap and top processes in the Omarchy bar |
 | [omarchy-widget-kit](https://github.com/ismoil77/omarchy-widget-kit) | Shared parts for Omarchy bar widgets: colours, translations, popup components |
 
+## Contributions
+
+Tajik (`tg`) localisation and fixes in libraries I use.
+
+| Project | What I added |
+|---|---|
+| [zod](https://github.com/colinhacks/zod) | Tajik locale, released in [v4.6.1](https://github.com/colinhacks/zod/releases/tag/v4.6.1) |
+| [Laravel-Lang](https://github.com/Laravel-Lang/lang) | Rewrote machine-translated Tajik validation messages and strings: [#8381](https://github.com/Laravel-Lang/lang/pull/8381), [#8384](https://github.com/Laravel-Lang/lang/pull/8384), [#8385](https://github.com/Laravel-Lang/lang/pull/8385), [#8392](https://github.com/Laravel-Lang/lang/pull/8392) |
+| [cRonstrue](https://github.com/bradymholt/cRonstrue) | Tajik locale ([#407](https://github.com/bradymholt/cRonstrue/pull/407)) and clearer wording for steps that do not divide evenly ([#409](https://github.com/bradymholt/cRonstrue/pull/409)) |
+| [vue-js-cron](https://github.com/abichinger/vue-js-cron) | Tajik translation ([#95](https://github.com/abichinger/vue-js-cron/pull/95)), `L` and `W` day-of-month values ([#94](https://github.com/abichinger/vue-js-cron/pull/94)), no English inside translated expressions ([#99](https://github.com/abichinger/vue-js-cron/pull/99)), a CI check for missing translations ([#102](https://github.com/abichinger/vue-js-cron/pull/102)) |
+
 ## Tools
 
 | Area | Tools |
