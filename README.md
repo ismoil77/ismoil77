@@ -6,8 +6,8 @@ Full-stack software engineer in Dushanbe, Tajikistan. I build web apps end to en
 
 | Role | Company | Period |
 |---|---|---|
-| Web Developer | Jurat inc, Dushanbe | March 2026 – present |
-| Frontend Web Developer | Avera, Dushanbe | July 2025 – present |
+| Software Engineer | Jurat inc, Dushanbe | March 2026 – present |
+| Software Engineer | Avera, Dushanbe | July 2025 – present |
 
 ## Amberflip
 
