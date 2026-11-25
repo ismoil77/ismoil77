@@ -36,6 +36,7 @@ Tajik (`tg`) localisation and fixes in open-source projects.
 | Project | What I added |
 |---|---|
 | [zod](https://github.com/colinhacks/zod) | Tajik locale, released in [v4.6.1](https://github.com/colinhacks/zod/releases/tag/v4.6.1) |
+| [Vuetify](https://github.com/vuetifyjs/vuetify) | Tajik locale for the Vue component framework ([#23435](https://github.com/vuetifyjs/vuetify/pull/23435)) |
 | [Laravel-Lang](https://github.com/Laravel-Lang/lang) | Rewrote machine-translated Tajik validation messages and strings: [#8381](https://github.com/Laravel-Lang/lang/pull/8381), [#8384](https://github.com/Laravel-Lang/lang/pull/8384), [#8385](https://github.com/Laravel-Lang/lang/pull/8385), [#8392](https://github.com/Laravel-Lang/lang/pull/8392) |
 | [cRonstrue](https://github.com/bradymholt/cRonstrue) | Tajik locale ([#407](https://github.com/bradymholt/cRonstrue/pull/407)) and clearer wording for steps that do not divide evenly ([#409](https://github.com/bradymholt/cRonstrue/pull/409)) |
 | [Symfony](https://github.com/symfony/symfony) | Tajik translations for the Validator, Form and Security components ([#68412](https://github.com/symfony/symfony/pull/68412)) |
