@@ -40,6 +40,8 @@ Tajik (`tg`) localisation and fixes in open-source projects.
 | [Laravel-Lang](https://github.com/Laravel-Lang/lang) | Rewrote machine-translated Tajik validation messages and strings: [#8381](https://github.com/Laravel-Lang/lang/pull/8381), [#8384](https://github.com/Laravel-Lang/lang/pull/8384), [#8385](https://github.com/Laravel-Lang/lang/pull/8385), [#8392](https://github.com/Laravel-Lang/lang/pull/8392) |
 | [cRonstrue](https://github.com/bradymholt/cRonstrue) | Tajik locale ([#407](https://github.com/bradymholt/cRonstrue/pull/407)) and clearer wording for steps that do not divide evenly ([#409](https://github.com/bradymholt/cRonstrue/pull/409)) |
 | [Symfony](https://github.com/symfony/symfony) | Tajik translations for the Validator, Form and Security components ([#68412](https://github.com/symfony/symfony/pull/68412)) |
+| [Filament](https://github.com/filamentphp/filament) | Completed the Tajik translations of the Laravel admin framework: panels, forms, tables, actions, notifications ([#21106](https://github.com/filamentphp/filament/pull/21106)) |
+| [Select2](https://github.com/select2/select2) | Tajik translation ([#6514](https://github.com/select2/select2/pull/6514)) |
 | [PrimeLocale](https://github.com/primefaces/primelocale) | Tajik locale for PrimeVue, PrimeReact and PrimeNG, released in 2.8.0 ([#280](https://github.com/primefaces/primelocale/pull/280)) |
 | [rc-pagination](https://github.com/react-component/pagination) (Ant Design) | Tajik locale ([#731](https://github.com/react-component/pagination/pull/731)) |
 | [HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) | Tajik language, released in 3.36.0 ([#249](https://github.com/EvanHahn/HumanizeDuration.js/pull/249)) |
