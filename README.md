@@ -37,6 +37,8 @@ Tajik (`tg`) localisation and fixes in open-source projects.
 |---|---|
 | [zod](https://github.com/colinhacks/zod) | Tajik locale, released in [v4.6.1](https://github.com/colinhacks/zod/releases/tag/v4.6.1) |
 | [Vuetify](https://github.com/vuetifyjs/vuetify) | Tajik locale for the Vue component framework ([#23435](https://github.com/vuetifyjs/vuetify/pull/23435)) |
+| [Astro Starlight](https://github.com/withastro/starlight) | Tajik UI translations for the Astro documentation framework ([#4441](https://github.com/withastro/starlight/pull/4441)) |
+| [Quasar](https://github.com/quasarframework/quasar) | Tajik language pack for the Vue framework ([#18607](https://github.com/quasarframework/quasar/pull/18607)) |
 | [Laravel-Lang](https://github.com/Laravel-Lang/lang) | Rewrote machine-translated Tajik validation messages and strings: [#8381](https://github.com/Laravel-Lang/lang/pull/8381), [#8384](https://github.com/Laravel-Lang/lang/pull/8384), [#8385](https://github.com/Laravel-Lang/lang/pull/8385), [#8392](https://github.com/Laravel-Lang/lang/pull/8392) |
 | [cRonstrue](https://github.com/bradymholt/cRonstrue) | Tajik locale ([#407](https://github.com/bradymholt/cRonstrue/pull/407)) and clearer wording for steps that do not divide evenly ([#409](https://github.com/bradymholt/cRonstrue/pull/409)) |
 | [Symfony](https://github.com/symfony/symfony) | Tajik translations for the Validator, Form and Security components ([#68412](https://github.com/symfony/symfony/pull/68412)) |
@@ -45,7 +47,7 @@ Tajik (`tg`) localisation and fixes in open-source projects.
 | [PrimeLocale](https://github.com/primefaces/primelocale) | Tajik locale for PrimeVue, PrimeReact and PrimeNG, released in 2.8.0 ([#280](https://github.com/primefaces/primelocale/pull/280)) |
 | [rc-pagination](https://github.com/react-component/pagination) (Ant Design) | Tajik locale ([#731](https://github.com/react-component/pagination/pull/731)) |
 | [HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) | Tajik language, released in 3.36.0 ([#249](https://github.com/EvanHahn/HumanizeDuration.js/pull/249)) |
-| [vue-js-cron](https://github.com/abichinger/vue-js-cron) | Tajik translation ([#95](https://github.com/abichinger/vue-js-cron/pull/95)), `L` and `W` day-of-month values ([#94](https://github.com/abichinger/vue-js-cron/pull/94)), no English inside translated expressions ([#99](https://github.com/abichinger/vue-js-cron/pull/99)), a CI check for missing translations ([#102](https://github.com/abichinger/vue-js-cron/pull/102)) |
+| [vue-js-cron](https://github.com/abichinger/vue-js-cron) | Tajik translation ([#95](https://github.com/abichinger/vue-js-cron/pull/95)), `L` and `W` day-of-month values ([#94](https://github.com/abichinger/vue-js-cron/pull/94)), no English inside translated expressions ([#99](https://github.com/abichinger/vue-js-cron/pull/99)), a CI check for missing translations ([#102](https://github.com/abichinger/vue-js-cron/pull/102)), Vuetify 4 support ([#106](https://github.com/abichinger/vue-js-cron/pull/106)) |
 
 ## Tools
 
